@@ -1,0 +1,30 @@
+{
+  "name": "pointer-trap",
+  "version": "0.0.0",
+  "description": "Trap the user's cursor within an element for nicer game controls.",
+  "main": "index.js",
+  "dependencies": {
+    "fullscreen": "~0.0.1",
+    "through": "~2.3.4",
+    "pointer-lock": "~0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/poitner-trap.git"
+  },
+  "keywords": [
+    "pointer",
+    "lock",
+    "trap",
+    "element",
+    "within",
+    "constrain",
+    "bounds"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
